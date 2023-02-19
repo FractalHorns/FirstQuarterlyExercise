@@ -1,5 +1,6 @@
 ﻿string[] array1 = new string[6] {"Dan", ":-)", "23", "hello", "Adilzhan", "res",};
 string[] array2 = new string[array1.Length];
+
 void Metamorphose(string[] array1, string[] array2)
 {
     int count = 0;
