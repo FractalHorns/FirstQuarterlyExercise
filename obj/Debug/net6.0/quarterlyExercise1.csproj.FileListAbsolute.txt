@@ -1,0 +1,15 @@
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\bin\Debug\net6.0\quarterlyExercise1.exe
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\bin\Debug\net6.0\quarterlyExercise1.deps.json
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\bin\Debug\net6.0\quarterlyExercise1.runtimeconfig.json
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\bin\Debug\net6.0\quarterlyExercise1.dll
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\bin\Debug\net6.0\quarterlyExercise1.pdb
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.csproj.AssemblyReference.cache
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.AssemblyInfoInputs.cache
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.AssemblyInfo.cs
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.csproj.CoreCompileInputs.cache
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.dll
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\refint\quarterlyExercise1.dll
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.pdb
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\quarterlyExercise1.genruntimeconfig.cache
+C:\Users\Adilzhan\Desktop\C#\quarterlyExercise1\obj\Debug\net6.0\ref\quarterlyExercise1.dll
